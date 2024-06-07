@@ -1,0 +1,10 @@
+# Goal definition
+geometry_msgs/PoseArray viewpoints
+
+---
+# Result definition
+bool success
+
+---
+# Feedback definition
+string progress
